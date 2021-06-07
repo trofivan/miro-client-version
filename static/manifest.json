@@ -1,0 +1,20 @@
+{
+  "name": "Miro Layout 4: early access",
+  "description": "Early access to the new Layout in Miro",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "index.js"
+  },
+  "action": {
+    "default_title": "Miro Layout 4: early access"
+  },
+  "icons": {
+    "16": "/images/icon16.png",
+    "32": "/images/icon32.png",
+    "48": "/images/icon48.png",
+    "128": "/images/icon128.png"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["https://miro.com/"]
+}

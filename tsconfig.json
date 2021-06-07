@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "types": ["chrome-types"],
+    "lib": [
+      "dom",
+      "ESNext"
+    ],
+    "strict": true,
+    "noImplicitAny": true,
+    "alwaysStrict": true,
+    "noImplicitThis": true,
+    "strictFunctionTypes": true,
+    "strictNullChecks": true,
+    "strictPropertyInitialization": true
+  }
+}
