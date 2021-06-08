@@ -1,7 +1,7 @@
 {
   "name": "Miro Layout 4: early access",
   "description": "Early access to the new Layout in Miro",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 3,
   "background": {
     "service_worker": "index.js"
